@@ -12,5 +12,7 @@ print "Here is the concatenation of the first two fragments (version 2):\n\n";
 print "$DNA3\n\n";
 print "Here is the concatenation of the first two fragments (version 3):\n\n";
 print $DNA1, $DNA2, "\n";
+$number = 17;
+print $number, "\n";
 exit;
 
