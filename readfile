@@ -1,0 +1,7 @@
+#!/usr/bin/perl -w
+use strict;
+Open my $PROTEINFILE, '<', $proteinfile or die "$0: failed to open input file '$proteinfile':  $!\n";
+Close my $PROTEINFILE or warn "$0: failed to close input file '$proteinfile': $!\n";
+print $PROTEINFILE;
+exit;
+
