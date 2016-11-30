@@ -25,7 +25,7 @@ chomp $str;
      $count_of_T = 0;
      $errors = 0;
      $base = '';
-for ( $position = (length $str) +1; $position >=0 ; $position = $position - 1 ) {
+for ( $position = (length $str) -1; $position >=0 ; $position = $position - 1 ) {
     $base = substr ( $str, $position,1);
     if ( $base eq 'A' ) {
        ++$count_of_T;
