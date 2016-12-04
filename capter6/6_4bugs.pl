@@ -5,7 +5,7 @@ my $receivingcommittment;
 my $previousbase = '';
 my $subsequence = '';
 if (@ARGV) {
-   my $subsequence = $ARGV[0];
+   $subsequence = $ARGV[0];
 }
 else {
    $subsequence = 'TA';
@@ -15,8 +15,7 @@ my $base2 = substr($subsequence, 1, 1);
 @dna = split ( '', $dna );
 foreach (@dna) {
   if ($receivingcommittment) {
-        print;
-        exit;
+        print ;
    }
   elsif ( $previousbase eq $base1 ) {
        if (/$base2/)  {
@@ -26,5 +25,5 @@ foreach (@dna) {
    }
   $previousbase = $_;
 }
-print "\n";
+print " \n";
 exit;
