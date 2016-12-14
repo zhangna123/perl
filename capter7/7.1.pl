@@ -2,7 +2,6 @@
 use strict;
 my $count;
 my $input;
-my $number;
 my $sentence;
 my $story;
 my @nouns = (
