@@ -21,11 +21,10 @@ exit;
 
 sub mutate_better {
   my ($dna) = @_;
-  my (@nucleotides) = ('A', 'C', 'G', 'T');
   my ($position) = randomposition($dna);
   my ($newbase);
   do {
-    $newbase = randomnucleotide(@nucleotides);
+    $newbase = randomnucleotide();
   }until ( $newbase ne substr($dna, $position, 1) );
  substr($dna, $position, 1, $newbase);
  return $dna;
