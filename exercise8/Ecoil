@@ -1,0 +1,160 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+284813	Encephalitozoon cuniculi GB-M1	860112	0	live	ECU11_1520	ECU11_1520	similarity to HYPOTHETICAL METHYLTRANSFERASE-LIKE PROTEIN YGGH_ECOLI			XI	NC_003237.1	194605	195336	plus	1		
+284813	Encephalitozoon cuniculi GB-M1	859476	0	live	ECU07_1170	ECU07_1170	similarity to HYPOTHETICAL PROTEINS YJBN_ECOLI and Y926_YEAST			VII	NC_003234.1	140583	141656	plus	1		
+284813	Encephalitozoon cuniculi GB-M1	859408	0	live	ECU07_0510	ECU07_0510	similarity to HYPOTHETICAL PROTEIN YBET_ECOLI			VII	NC_003234.1	67846	69222	minus	1		
+90371	Salmonella enterica subsp. enterica serovar Typhimurium	24955882	0	live	pilV	p9134dT_0460	similar to SHU1_ECOLI,sp:P09745	similar to SHU1_ECOLI,sp:P09745|typeIV prepilin			NC_023290.1	97119	98555	minus	0		
+90371	Salmonella enterica subsp. enterica serovar Typhimurium	24955878	0	live	traG	p9134dT_0430	similar to TraG of plasmid R64, 41 pct identical(1 gap) to 174 residues of 200 aa protein sp:AIS_ECOLI	similar to TraG of plasmid R64, 41 pct identical(1 gap) to 174 residues of 200 aa protein sp:AIS_ECOLI|TraG			NC_023290.1	91425	92009	minus	0		
+90371	Salmonella enterica subsp. enterica serovar Typhimurium	24955835	0	live	resA	p9134dT_0145	similar to REDM_ECOLI,sp:P18021	similar to REDM_ECOLI,sp:P18021|resolvase			NC_023290.1	32553	33332	plus	0		
+90371	Salmonella enterica subsp. enterica serovar Typhimurium	24955796	0	live	pilV	p9134dAT_0390	similar to SHU1_ECOLI,sp:P09745	similar to SHU1_ECOLI,sp:P09745|typeIV prepilin			NC_023276.1	79340	80776	minus	0		
+90371	Salmonella enterica subsp. enterica serovar Typhimurium	24955792	0	live	traG	p9134dAT_0360	similar to TraG of plasmid R64, 41 pct identical(1 gap) to 174 residues of 200 aa protein sp:AIS_ECOLI	similar to TraG of plasmid R64, 41 pct identical(1 gap) to 174 residues of 200 aa protein sp:AIS_ECOLI|TraG			NC_023276.1	73646	74230	minus	0		
+90371	Salmonella enterica subsp. enterica serovar Typhimurium	24955749	0	live	resA	p9134dAT_0075	similar to REDM_ECOLI,sp:P18021	similar to REDM_ECOLI,sp:P18021|resolvase			NC_023276.1	14774	15553	plus	0		
+90371	Salmonella enterica subsp. enterica serovar Typhimurium	24955705	0	live	resA	p9134_0165	similar to REDM_ECOLI,sp:P18021	similar to REDM_ECOLI,sp:P18021|resolvase			NC_023275.1	39064	39843	plus	0		
+90371	Salmonella enterica subsp. enterica serovar Typhimurium	24955667	0	live	pilV	p9134_0480	similar to SHU1_ECOLI,sp:P09745	similar to SHU1_ECOLI,sp:P09745|typeIV prepilin			NC_023275.1	103630	105066	minus	0		
+90371	Salmonella enterica subsp. enterica serovar Typhimurium	24955663	0	live	traG	p9134_0450	similar to TraG of plasmid R64, 41 pct identical(1 gap) to 174 residues of 200 aa protein sp:AIS_ECOLI	similar to TraG of plasmid R64, 41 pct identical(1 gap) to 174 residues of 200 aa protein sp:AIS_ECOLI|TraG			NC_023275.1	97936	98520	minus	0		
+90371	Salmonella enterica subsp. enterica serovar Typhimurium	24955836	0	live	parA	p9134dT_0160	51 pct identical to sp:STBA_ECOLI	51 pct identical to sp:STBA_ECOLI|hypothetical protein			NC_023290.1	34910	35944	plus	0		
+90371	Salmonella enterica subsp. enterica serovar Typhimurium	24955750	0	live	parA	p9134dAT_0090	51 pct identical to sp:STBA_ECOLI	51 pct identical to sp:STBA_ECOLI|hypothetical protein			NC_023276.1	17131	18165	plus	0		
+90371	Salmonella enterica subsp. enterica serovar Typhimurium	24955706	0	live	parA	p9134_0180	51 pct identical to sp:STBA_ECOLI	51 pct identical to sp:STBA_ECOLI|hypothetical protein			NC_023275.1	41421	42455	plus	0		
+573	Klebsiella pneumoniae	8877562	0	live	pKF140_045	pKF140_045	similar to ABC transporter YBJZ_ECOLI	similar to ABC transporter YBJZ_ECOLI|hypothetical ABC transporter			NC_013951.1	27288	28571	minus	0		
+3880	Medicago truncatula	11444264	0	live	MTR_3g050140	MTR_3g050140	PolI-like B DNA polymerase			3	NC_016409.2	19745643	19761421	plus	14		
+220341	Salmonella enterica subsp. enterica serovar Typhi str. CT18	1246941	0	live	phnT	STY0467	2-aminoethylphosphonate import ATP-binding protein PhnT				NC_003198.1	473232	474341	minus	0		
+4432	Nelumbo nucifera	104610895	0	live	LOC104610895		DNA polymerase I A, chloroplastic/mitochondrial-like			Un							
+220341	Salmonella enterica subsp. enterica serovar Typhi str. CT18	1248543	0	live	ompS1	STY2203	outer membrane protein S1				NC_003198.1	2041179	2042363	plus	0		
+511145	Escherichia coli str. K-12 substr. MG1655	948356	0	live	polA	b3863, ECK3855, JW3835, resA	5' to 3' DNA polymerase and 3' to 5'/5' to 3' exonuclease				NC_000913.3	4046966	4049752	plus	0		
+220341	Salmonella enterica subsp. enterica serovar Typhi str. CT18	1248821	0	live	ompC	STY2493	outer membrane protein C				NC_003198.1	2322394	2323530	minus	0		
+511145	Escherichia coli str. K-12 substr. MG1655	947228	0	live	ygbT	b2755, ECK2750, JW2725, cas1	multifunctional endonuclease Cas1, CRISPR adaptation protein; DNA repair enzyme				NC_000913.3	2878855	2879772	minus	0		
+39947	Oryza sativa Japonica Group	4344791	0	live	LOC4344791	OSNPB_080175600, OJ1134_B10.10	DNA polymerase I B, mitochondrial	DNA polymerase PolI-like B|DNA polymerase gamma 2|LOC_Os08g07850|OSJNBa0054L03.41|Os08g0175600|OsPolI-like B|putative PolI-like DNA polymerase		8	NC_029263.1	4406611	4417625	minus	11		
+3847	Glycine max	100790704	0	live	LOC100790704	GLYMA_08G313300	DNA polymerase I B, chloroplastic/mitochondrial-like			8	NC_016095.2	43300985	43333025	minus	13		
+3702	Arabidopsis thaliana	821600	0	live	POLGAMMA1	AT3G20540, PolIB, polymerase I B, polymerase gamma 1	polymerase gamma 1			3	NC_003074.8	7168054	7173617	plus	13		
+220341	Salmonella enterica subsp. enterica serovar Typhi str. CT18	1248607	0	live	phsB	STY2270	thiosulfate reductase electron transport protein PhsB				NC_003198.1	2094854	2095432	minus	0		
+455632	Streptomyces griseus subsp. griseus NBRC 13350	6215346	0	live	SGR_RS17575	SGR_RS17575, SGR_3547	subtype I-E CRISPR-associated endonuclease Cas1				NC_010572.1	4151268	4152227	plus	0		
+758847	Leptospira santarosai serovar Shermani str. LT 821	29740749	0	live	LSS_RS03680	LSS_RS03680, LSS_15611	subtype I-E CRISPR-associated endonuclease Cas1			I							
+748671	Lactobacillus crispatus ST1	9107071	0	live	LCRIS_RS06065	LCRIS_RS06065, LCRIS_01208	CRISPR-associated protein Cse1				NC_014106.1	1210909	1211856	minus	0		
+334390	Lactobacillus fermentum IFO 3956	6232992	0	live	LAF_RS04100	LAF_RS04100, LAF_0697	subtype I-E CRISPR-associated endonuclease Cas1				NC_010610.1	813856	814797	plus	0		
+390333	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002	4084830	0	live	LDB_RS03835	LDB_RS03835, Ldb0874	CRISPR-associated protein Cse1				NC_008054.1	762222	763172	plus	0		
+1170318	Cutibacterium avidum 44067	29843157	0	live	PALO_RS00010	PALO_RS00010, PALO_00010	subtype I-E CRISPR-associated endonuclease Cas1				NC_021064.1	788	1726	minus	0		
+634452	Acetobacter pasteurianus IFO 3283-01	8426578	0	live	APA01_RS14205	APA01_RS14205, APA01_41090	subtype I-E CRISPR-associated endonuclease Cas1				NC_013210.1	122168	123127	plus	0		
+351160	Methanocella arvoryzae MRE50	5143692	0	live	RCI_RS08740	RCI_RS08740, RCIX1153	CRISPR-associated protein Cas1				NC_009464.1	1756874	1757815	minus	0		
+306537	Corynebacterium jeikeium K411	3433134	0	live	JK_RS03375	JK_RS03375, jk0643	CRISPR-associated protein Cse1				NC_007164.1	777470	778411	minus	0		
+1224746	Gluconobacter oxydans H24	29878030	0	live	B932_RS00460	B932_RS00460, B932_0096	subtype I-E CRISPR-associated endonuclease Cas1				NC_019396.1	98518	99480	plus	0		
+1192864	Leptospira borgpetersenii serovar Mini str. 200901116	23264916	0	live	LEP1GSC190_RS15740	LEP1GSC190_RS15740, LEP1GSC190_1828	CRISPR-associated endonuclease Cas1, subtype TIGR03638										
+665029	Erwinia amylovora CFBP1430	8914606	0	live	EAMY_RS30360	EAMY_RS30360, EAMY_2814	subtype I-E CRISPR-associated endonuclease Cas1				NC_013961.1	2903948	2904865	minus	0		
+406818	Xenorhabdus bovienii SS-2004	8833377	0	live	XBJ1_RS16020	XBJ1_RS16020, XBJ1_3755	subtype I-E CRISPR-associated endonuclease Cas1				NC_013892.1	3645139	3646059	plus	0		
+355276	Leptospira borgpetersenii serovar Hardjo-bovis str. L550	4406300	0	live	LBL_RS03630	LBL_RS03630, LBL_0657	CRISPR-associated protein Cas1			1	NC_008508.1	731514	732398	minus	0		
+1774373	Alteromonas mediterranea DE	10558228	0	live	MADE_RS14205	MADE_RS14205, MADE_1014380	subtype I-E CRISPR-associated endonuclease Cas1				NC_011138.3	3212411	3213331	minus	0		
+1133850	Streptomyces hygroscopicus subsp. jinggangensis 5008	12813534	0	live	SHJG_RS44665	SHJG_RS44665, SHJG_p1054	subtype I-E CRISPR-associated endonuclease Cas1				NC_017766.1	41260	42228	minus	0		
+1088540	Leptospira weilii serovar Topaz str. LT2116	29807641	0	live	LEP1GSC188_RS18900	LEP1GSC188_RS18900, LEP1GSC188_2625	subtype I-E CRISPR-associated endonuclease Cas1										
+553190	Gardnerella vaginalis 409-05	29692394	0	live	HMPREF0424_RS03700	HMPREF0424_RS03700, HMPREF0424_0765	subtype I-E CRISPR-associated endonuclease Cas1				NC_013721.1	868034	868975	plus	0		
+67257	Streptomyces albus subsp. albus	26155901	0	live	IO40_RS0125660	IO40_RS0125660	subtype I-E CRISPR-associated endonuclease Cas1										
+525268	Corynebacterium striatum ATCC 6940	25469305	0	live	HMPREF0308_RS02600	HMPREF0308_RS02600, HMPREF0308_0795	subtype I-E CRISPR-associated endonuclease Cas1										
+411466	Actinomyces odontolyticus ATCC 17982	25046364	0	live	ACTODO_RS02320	ACTODO_RS02320, ACTODO_00521	CRISPR-associated protein Cse1										
+999542	Salinispora pacifica DSM 45543	23521483	0	live	SALPAC_RS0110125	SALPAC_RS0110125	CRISPR-associated protein Cas1										
+1001592	Leptospira santarosai str. 2000027870	22999493	0	live	LEP1GSC039_RS16355	LEP1GSC039_RS16355, LEP1GSC039_3871	CRISPR-associated endonuclease Cas1, subtype I-E										
+591167	Streptomyces pratensis ATCC 33331	11353769	0	live	SFLA_RS32650	SFLA_RS32650, Sfla_6592	subtype I-E CRISPR-associated endonuclease Cas1				NC_016110.1	142857	143834	plus	0		
+1048332	Streptococcus salivarius CCHSS3	10971981	0	live	SALIVB_RS05195	SALIVB_RS05195, SALIVB_1071	CRISPR-associated protein Cse1				NC_015760.1	1171217	1172158	minus	0		
+679901	Methanosalsum zhilinae DSM 4017	10823194	0	live	MZHIL_RS07820	MZHIL_RS07820, Mzhil_1556	CRISPR-associated protein Cas1				NC_015676.1	1669567	1670478	minus	0		
+521011	Methanosphaerula palustris E1-9c	7272144	0	live	MPAL_RS07930	MPAL_RS07930, Mpal_1602	CRISPR-associated protein Cas1				NC_011832.1	1649480	1650391	minus	0		
+391037	Salinispora arenicola CNS-205	5707880	0	live	SARE_RS09785	SARE_RS09785, Sare_1977	CRISPR-associated protein Cas1				NC_009953.1	2275965	2276927	plus	0		
+391037	Salinispora arenicola CNS-205	5706150	0	live	SARE_RS12635	SARE_RS12635, Sare_2578	CRISPR-associated protein Cse1				NC_009953.1	2934586	2935554	plus	0		
+259564	Methanococcoides burtonii DSM 6242	3996572	0	live	MBUR_RS03035	MBUR_RS03035, Mbur_0599	CRISPR-associated protein Cas1				NC_007955.1	609520	610431	plus	0		
+323259	Methanospirillum hungatei JF-1	3923370	0	live	MHUN_RS07185	MHUN_RS07185, Mhun_1375	CRISPR-associated protein Cas1				NC_007796.1	1573758	1574657	minus	0		
+386585	Escherichia coli O157:H7 str. Sakai	912281	0	live	ECs3633	ECs3633	7-carboxy-7-deazaguanine synthase QueE				NC_002695.1	3624555	3625226	minus	0		
+3880	Medicago truncatula	11444798	0	live	MTR_3g050110	MTR_3g050110	PolI-like B DNA polymerase			3	NC_016409.2	19729560	19740468	plus	13		
+3880	Medicago truncatula	11436067	0	live	MTR_5g092100	MTR_5g092100	PolI-like B DNA polymerase			5	NC_016411.2	40213069	40221218	minus	12		
+405041	Streptomyces sp. HK1	5878159	0	live	pSHK1.56	pSHK1.56	CRISPR-associated protein, Cas1 family	CRISPR-associated protein, Cas1 family|CRISPR-associated protein Cas1			NC_010311.1	62405	63451	minus	0		
+525284	Gardnerella vaginalis ATCC 14019	9904236	0	live	cas1	HMPREF0421_20676	CRISPR-associated protein cas1				NC_014644.1	834256	835218	plus	0		
+1196095	Gilliamella apicola	29850238	0	live	GAPWK_RS11795	GAPWK_RS11795, GAPWK_2357	subtype I-E CRISPR-associated endonuclease Cas1										
+269796	Rhodospirillum rubrum ATCC 11170	3834147	0	live	Rru_A0169	Rru_A0169	CRISPR-associated Cas1 family protein				NC_007643.1	200286	201227	minus	0		
+243231	Geobacter sulfurreducens PCA	2685854	0	live	cas1-2	GSU1392	CRISPR-associated endodeoxyribonuclease Cas1				NC_002939.5	1520566	1521486	plus	0		
+1349767	Janthinobacterium agaricidamnosum NBRC 102515 = DSM 9628	29913096	0	live	GJA_RS14695	GJA_RS14695, GJA_3175	subtype I-E CRISPR-associated endonuclease Cas1			I							
+1133852	Escherichia coli O104:H4 str. 2011C-3493	13700814	0	live	O3K_05755	O3K_05755	CRISPR-associated protein Cas1				NC_018658.1	1187571	1188491	plus	0		
+99287	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	1254461	0	live	STM2938	STM2938	CRISPR-associated endonuclease Cas1				NC_003197.1	3078537	3079457	minus	0		
+220341	Salmonella enterica subsp. enterica serovar Typhi str. CT18	1249366	0	live	STY3065	STY3065	CRISPR/Cas system-associated protein Cas1				NC_003198.1	2926948	2927865	minus	0		
+321967	Lactobacillus paracasei ATCC 334	4420975	0	live	LSEI_0355	LSEI_0355	CRISPR-associated protein				NC_008526.1	355004	355951	plus	0		
+796385	Methanosarcina barkeri CM1	24885597	0	live	MCM1_RS09575	MCM1_RS09575, MCM1_1900	CRISPR-associated protein Cas1										
+1434108	Methanosarcina barkeri MS	24843955	0	live	MSBRM_RS04035	MSBRM_RS04035, MSBRM_0748	CRISPR-associated protein Cas1										
+1434103	Methanosarcina sp. WWM596	24836813	0	live	MSWHS_RS15490	MSWHS_RS15490, MSWHS_2893	CRISPR-associated protein Cas1										
+1434099	Methanosarcina sp. Kolksee	24827345	0	live	MSKOL_RS09780	MSKOL_RS09780, MSKOL_1828	CRISPR-associated protein Cas1										
+1434106	Methanosarcina barkeri 227	24800614	0	live	MSBR2_RS08500	MSBR2_RS08500, MSBR2_1627	CRISPR-associated protein Cas1										
+525260	Corynebacterium accolens ATCC 49725	23249790	0	live	HMPREF0276_RS04850	HMPREF0276_RS04850, HMPREF0276_1784	CRISPR-associated protein Cse1										
+399739	Pseudomonas mendocina ymp	5105750	0	live	PMEN_RS18890	PMEN_RS18890, Pmen_3755	CRISPR-associated protein Cas1				NC_009439.1	4140213	4141100	minus	0		
+386585	Escherichia coli O157:H7 str. Sakai	914669	0	live	ECs3609	ECs3609	hypothetical protein				NC_002695.1	3598821	3599744	minus	0		
+386585	Escherichia coli O157:H7 str. Sakai	914668	0	live	ECs3610	ECs3610	hypothetical protein				NC_002695.1	3599741	3600391	minus	0		
+386585	Escherichia coli O157:H7 str. Sakai	913522	0	live	ECs5335	ECs5335	hypothetical protein				NC_002695.1	5470457	5471530	plus	0		
+194439	Chlorobium tepidum TLS	1007584	0	live	CT1977	CT1977	hypothetical protein				NC_002932.3	1876089	1876979	plus	0		
+90675	Camelina sativa	109124566	0	live	LOC109124566		DNA polymerase I B, chloroplastic/mitochondrial-like			1	NC_025685.1	9543391	9549839	plus	13		
+90675	Camelina sativa	104785519	0	live	LOC104785519		DNA polymerase I B, chloroplastic/mitochondrial			19	NC_025703.1	10818817	10825906	plus	13		
+90675	Camelina sativa	104746465	0	live	LOC104746465		DNA polymerase I B, chloroplastic/mitochondrial			15	NC_025699.1	11586712	11593490	plus	15		
+39947	Oryza sativa Japonica Group	4337150	0	live	LOC4337150	OSNPB_040637400	DNA polymerase I A, chloroplastic-like	Os04g0637400		4	NC_029259.1	32416787	32423989	plus	12		
+130453	Arachis duranensis	107477467	0	live	LOC107477467		DNA polymerase I A, chloroplastic/mitochondrial			A01	NC_029772.1	11584215	11591391	plus	12		
+51953	Elaeis guineensis	105033029	0	live	LOC105033029		DNA polymerase I A, chloroplastic-like			Un							
+3555	Beta vulgaris subsp. vulgaris	104889482	0	live	LOC104889482	BVRB_3g062870	DNA polymerase I A, chloroplastic/mitochondrial			3	NC_025814.2	22951145	22968766	minus	14		
+71139	Eucalyptus grandis	104448335	0	live	LOC104448335	EUGRSUZ_F00964	DNA polymerase I A, chloroplastic/mitochondrial			Un							
+4641	Musa acuminata	103999832	0	live	LOC103999832		DNA polymerase I A, chloroplastic-like			10	NC_025211.1	9465473	9524143	minus	12		
+3827	Cicer arietinum	101510274	0	live	LOC101510274		DNA polymerase I B, chloroplastic/mitochondrial-like			Ca5	NC_021164.1	23448848	23461952	minus	12		
+300852	Thermus thermophilus HB8	3169280	0	live	TTHB193	TTHB193	hypothetical protein				NC_006462.1	199442	200419	plus	0		
+511145	Escherichia coli str. K-12 substr. MG1655	947527	0	live	queE	b2777, ECK2771, JW2748, ygcF	7-carboxy-7-deazaguanine synthase; queosine biosynthesis				NC_000913.3	2904747	2905418	minus	0		
+220341	Salmonella enterica subsp. enterica serovar Typhi str. CT18	1248908	0	live	STY2583	STY2583, hisQ	histidine ABC transporter permease				NC_003198.1	2418642	2419328	minus	0		
+3702	Arabidopsis thaliana	841506	0	live	POLGAMMA2	AT1G50840, F8A12.8, F8A12_8, PolIA, polymerase I A, polymerase gamma 2	polymerase gamma 2			1	NC_003070.9	18839047	18844577	plus	12		
+511145	Escherichia coli str. K-12 substr. MG1655	947224	0	live	casC	b2758, ECK2753, JW2728, cas4, cas7, cse4, ygcJ	CRISP RNA (crRNA) containing Cascade antiviral complex protein				NC_000913.3	2881051	2882142	minus	0		
+511145	Escherichia coli str. K-12 substr. MG1655	947226	0	live	casE	b2756, ECK2751, JW2726, cas6e, cse3, ygcH	CRISPR RNA precursor cleavage enzyme; CRISP RNA (crRNA) containing Cascade antiviral complex protein				NC_000913.3	2879788	2880387	minus	0		
+511145	Escherichia coli str. K-12 substr. MG1655	947225	0	live	casD	b2757, ECK2752, JW5844, cas5, ygcI	CRISP RNA (crRNA) containing Cascade antiviral complex protein				NC_000913.3	2880374	2881048	minus	0		
+320483	Anaplasma marginale str. Florida	7398004	0	live	AMF_RS07415	AMF_RS07415, AMF_467	DNA polymerase III subunit epsilon				NC_012026.1	563237	563935	plus	0		
+511145	Escherichia coli str. K-12 substr. MG1655	948906	0	live	yjjU	b4377, ECK4369, JW4340	putative patatin-like family phospholipase				NC_000913.3	4612411	4613484	plus	0		
+243276	Treponema pallidum subsp. pallidum str. Nichols	2610831	0	live	TP_RS00530	TP_RS00530, TP0105	DNA polymerase I				NC_000919.1	115806	118799	plus	0		
+212042	Anaplasma phagocytophilum str. HZ	3931235	0	live	APH_RS03005	APH_RS03005, APH_0730	DNA polymerase III subunit epsilon				NC_007797.1	775329	776063	minus	0		
+257314	Lactobacillus johnsonii NCC 533	2742370	0	live	LJ_RS03230	LJ_RS03230, LJ0785	patatin family protein				NC_005362.1	680190	681038	plus	0		
+557723	Haemophilus parasuis SH0165	7278022	0	live	HAPS_RS00905	HAPS_RS00905, HAPS_0180	DNA polymerase I				NC_011852.1	192932	195796	plus	0		
+367737	Arcobacter butzleri RM4018	24304306	0	live	ABU_RS06335	ABU_RS06335, Abu_1270	DNA polymerase I				NC_009850.1	1267741	1270431	minus	0		
+1316932	Mannheimia haemolytica M42548	15339471	0	live	MHH_RS22260	MHH_RS22260, MHH_c17390	DNA polymerase I				NC_021082.1	1646518	1649376	plus	0		
+1316932	Mannheimia haemolytica M42548	15339036	0	live	MHH_RS20205	MHH_RS20205, MHH_c13040	serine protease				NC_021082.1	1247629	1248471	minus	0		
+758847	Leptospira santarosai serovar Shermani str. LT 821	29740125	0	live	LSS_RS18460	LSS_RS18460, LSS_08969	alpha/beta hydrolase			II							
+758847	Leptospira santarosai serovar Shermani str. LT 821	29739855	0	live	LSS_RS14155	LSS_RS14155, LSS_19645	DNA polymerase I			I							
+529120	Alteromonas macleodii ATCC 27126	29679315	0	live	MASE_RS00080	MASE_RS00080, MASE_00080	DNA polymerase I				NC_018632.1	17286	20078	minus	0		
+529120	Alteromonas macleodii ATCC 27126	29677888	0	live	MASE_RS05655	MASE_RS05655, MASE_05680	7-carboxy-7-deazaguanine synthase QueE				NC_018632.1	1326076	1326750	plus	0		
+529120	Alteromonas macleodii ATCC 27126	29677287	0	live	MASE_RS06090	MASE_RS06090, MASE_06120	patatin family protein				NC_018632.1	1427921	1429090	minus	0		
+529120	Alteromonas macleodii ATCC 27126	29677279	0	live	MASE_RS09150	MASE_RS09150, MASE_09145	patatin family protein				NC_018632.1	2146225	2147085	plus	0		
+324602	Chloroflexus aurantiacus J-10-fl	5827954	0	live	Caur_0341	Caur_0341	DNA polymerase I				NC_010175.1	433144	435972	minus	0		
+28141	Cronobacter sakazakii	29456455	0	live	CSK29544_RS08810	CSK29544_RS08810, CSK29544_01778	7-carboxy-7-deazaguanine synthase QueE										
+1234596	Borrelia garinii NMJW1	13812759	0	live	BGCN_RS02710	BGCN_RS02710, BgCN_0565	DNA polymerase I				NC_018747.1	557573	560299	minus	0		
+693978	Riemerella anatipestifer ATCC 11845 = DSM 15868	29731281	0	live	RA0C_RS01980	RA0C_RS01980, RA0C_0416	DNA polymerase I				NC_017045.1	388668	391475	plus	0		
+163164	Wolbachia endosymbiont of Drosophila melanogaster	29555320	0	live	WD_RS00490	WD_RS00490, WD0108	DNA polymerase III subunit epsilon				NC_002978.6	101358	102053	plus	0		
+1405	Bacillus mycoides	29402819	0	live	BG05_RS27335	BG05_RS27335, BG05_5157	patatin family protein										
+1225179	Bartonella quintana RM-11	13564133	0	live	RM11_RS00030	RM11_RS00030, RM11_0006	DNA polymerase I				NC_018533.1	3939	6845	plus	0		
+1069534	Lactobacillus ruminis ATCC 27782	29801811	0	live	LRC_RS05355	LRC_RS05355, LRC_10120	patatin family protein				NC_015975.1	1061249	1062127	plus	0		
+555970	Bifidobacterium animalis subsp. lactis DSM 10140	29696168	0	live	BALAT_RS00910	BALAT_RS00910, Balat_0183	patatin family protein				NC_012815.1	214556	215437	minus	0		
+555970	Bifidobacterium animalis subsp. lactis DSM 10140	29696082	0	live	BALAT_RS06270	BALAT_RS06270, Balat_1264	patatin family protein				NC_012815.1	1458192	1459049	plus	0		
+537972	Helicobacter pullorum MIT 98-5489	29688911	0	live	HPMG_RS09335	HPMG_RS09335, HPMG_01880	DNA polymerase I										
+489653	Neisseria lactamica 020-06	29670750	0	live	NLA_RS09935	NLA_RS09935, NLA_19210	DNA polymerase I				NC_014752.1	2057974	2060772	minus	0		
+390874	Thermotoga petrophila RKU-1	29653417	0	live	TPET_RS05965	TPET_RS05965, Tpet_1172	DNA polymerase I				NC_009486.1	1196064	1198745	plus	0		
+357244	Orientia tsutsugamushi str. Boryong	29641191	0	live	OTBS_RS05705	OTBS_RS05705, OTBS_1217	DNA polymerase III subunit epsilon				NC_009488.1	1187569	1188237	plus	0		
+283166	Bartonella henselae str. Houston-1	29620498	0	live	BH_RS00030	BH_RS00030, BH00060	DNA polymerase I				NC_005956.1	3932	6838	plus	0		
+93060	Prochlorococcus marinus str. MIT 9215	29511396	0	live	P9215_RS06380	P9215_RS06380, P9215_13441	DNA polymerase I				NC_009840.1	1140763	1143693	plus	0		
+747	Pasteurella multocida	29389025	0	live	DR93_RS04410	DR93_RS04410, DR93_900	DNA polymerase I										
+747	Pasteurella multocida	29388166	0	live	DR93_RS07210	DR93_RS07210, DR93_1468	patatin family protein										
+431947	Porphyromonas gingivalis ATCC 33277	29256930	0	live	PGN_RS08410	PGN_RS08410, PGN_1771	DNA polymerase I				NC_010729.1	1986093	1988873	minus	0		
+1123317	Streptococcus sobrinus DSM 20742 = ATCC 33478	22990399	0	live	BS63_RS0103160	BS63_RS0103160	hydrolase										
+326425	Lactobacillus helveticus CNRZ32	16794115	0	live	LHE_RS14635	LHE_RS14635, lhe_0566	serine protease				NC_021744.1	635910	636758	plus	0		
+326426	Bifidobacterium breve UCC2003	14790021	0	live	BBR_RS13690	BBR_RS13690, Bbr_0645	phospholipase				NC_020517.1	845214	846059	minus	0		
+1236608	Moraxella catarrhalis BBH18	9136415	0	live	MCR_RS07575	MCR_RS07575, MCR_1683	DNA polymerase I				NC_014147.1	1650702	1653581	plus	0		
+748671	Lactobacillus crispatus ST1	9107877	0	live	LCRIS_RS03180	LCRIS_RS03180, LCRIS_00604	serine protease				NC_014106.1	608751	609599	plus	0		
+568703	Lactobacillus rhamnosus GG	8422230	0	live	LGG_RS08050	LGG_RS08050, LGG_01675	alpha/beta hydrolase				NC_013198.1	1701868	1702551	minus	0		
+306263	Campylobacter lari RM2100	7409847	0	live	CLA_RS06680	CLA_RS06680, CLA0346, Cla_1341	DNA polymerase I				NC_012039.1	1286800	1289439	minus	0		
+442563	Bifidobacterium animalis subsp. lactis AD011	7264248	0	live	BLA_RS04395	BLA_RS04395, BLA_0841	phospholipase				NC_011835.1	1067165	1068022	plus	0		
+442563	Bifidobacterium animalis subsp. lactis AD011	7263583	0	live	BLA_RS00910	BLA_RS00910, BLA_0172	phospholipase				NC_011835.1	214746	215627	minus	0		
+334390	Lactobacillus fermentum IFO 3956	6232040	0	live	LAF_RS05710	LAF_RS05710, LAF_0988	patatin family protein				NC_010610.1	1141219	1142076	plus	0		
+410358	Methanocorpusculum labreanum Z	4795276	0	live	MLAB_RS07470	MLAB_RS07470, Mlab_1409	serine protease				NC_008942.1	1440299	1441147	minus	0		
+390333	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002	4084986	0	live	LDB_RS02920	LDB_RS02920, Ldb0674	serine protease				NC_008054.1	571778	572626	plus	0		
+359391	Brucella abortus 2308	3786922	0	live	BAB_RS16500	BAB_RS16500, BAB1_0120	DNA polymerase I			I	NC_007618.1	132683	135619	plus	0		
+264199	Streptococcus thermophilus LMG 18311	3164702	0	live	STU_RS14460	STU_RS14460, stu1060	serine protease				NC_006448.1	949137	949988	minus	0		
+242619	Porphyromonas gingivalis W83	2552230	0	live	PG_RS07915	PG_RS07915, PG1794	DNA polymerase I				NC_002950.2	1886118	1888898	plus	0		
+272843	Pasteurella multocida subsp. multocida str. Pm70	1244412	0	live	PM_RS05560	PM_RS05560, PM1065	DNA polymerase I				NC_002663.1	1254143	1256935	plus	0		
+272843	Pasteurella multocida subsp. multocida str. Pm70	1243985	0	live	PM_RS03300	PM_RS03300, PM0638	serine protease				NC_002663.1	739981	740823	plus	0		
+1348623	Bacillus megaterium NBRC 15308 = ATCC 14581	29911517	0	live	BG04_RS17865	BG04_RS17865, BG04_3577	patatin family protein										
+929506	Clostridium botulinum BKT015925	29750474	0	live	CBC4_RS09790	CBC4_RS09790, CbC4_1969	patatin family protein				NC_015425.1	2113080	2113931	minus	0		
+637390	Acidithiobacillus thiooxidans ATCC 19377	29720377	0	live	ATHIO_RS0110380	ATHIO_RS0110380	DNA polymerase I										
+521097	Capnocytophaga ochracea DSM 7271	29676708	0	live	COCH_RS05490	COCH_RS05490, Coch_1092	DNA polymerase I				NC_013162.1	1291163	1293961	plus	0		
+290633	Gluconobacter oxydans 621H	29628319	0	live	GOX_RS11080	GOX_RS11080, GOX1961	DNA polymerase III subunit epsilon				NC_006677.1	2149269	2149955	plus	0		
+195103	Clostridium perfringens ATCC 13124	29571344	0	live	CPF_RS07520	CPF_RS07520, CPF_1546	patatin family protein				NC_008261.1	1764207	1765046	plus	0		
+195103	Clostridium perfringens ATCC 13124	29571073	0	live	CPF_RS08870	CPF_RS08870, CPF_1826	phospholipase				NC_008261.1	2059439	2060356	minus	0		
+74547	Prochlorococcus marinus str. MIT 9313	29493481	0	live	AKG35_RS06200	AKG35_RS06200, PMT1157, RG24_RS06220	DNA polymerase I				NC_005071.1	1246207	1249167	plus	0		
+1519	Clostridium tyrobutyricum	29418882	0	live	CTK_RS12850	CTK_RS12850, CTK_C26450	patatin family protein	
