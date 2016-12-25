@@ -214,7 +214,26 @@ sub parseREBASE {
 }
 
 
+sub open_file {
+    my ($filename) = @_;
+    my $fh;
+    unless ( open( $fh, $filename ) ) {
+        print "Cannot open file $filename\n";
+        exit;
+    }
+    return $fh;
+}
 
+sub match_positions {
+    my ( $regexp, $sequence ) = @_;
+    use strict;
+    use BeginPerlBioinfo;
+    my @positions = ();
+    while ( $sequence =~ /$regexp/ig ) {
+        push( @positions, pos($sequence) - length($&) + 1 );
+    }
+    return @positions;
+}
 
 
 
