@@ -1,3 +1,4 @@
+#!/usr/bin/perl -w
 use strict;
 use warnings;
 use Carp;
@@ -6,7 +7,7 @@ use Getopt::Std;
 
 use constant MAXNUMBER => 500;
 use constant LINE => 30;
-use constant PROXY => 'http://10.40.14.56:80';
+use constant PROXY => 'http://192.168.180.166';
 $| = 1;
 
 my %opts;
@@ -58,7 +59,7 @@ sub GetStockValue{
         croak "Length > MAXNUMBER" if @_>MAXNUMBER;
        
         my $ua = LWP::UserAgent->new();
-        #~ $ua->proxy('http', PROXY);
+       
        
         my $res = $ua->get("http://hq.sinajs.cn/list=".join(',',@_));
         if($res->is_success){
