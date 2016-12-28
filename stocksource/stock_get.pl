@@ -23,9 +23,10 @@ my %market = (
 
 my @defaultstock = qw(sh601818 sz300229 sz002649 sz002368 sh600667 sz000858);  #定义数组
 if($opts{c}){
-        system 'cls';  #清屏
+        system 'clear';  #清屏
 }
 my $func = $opts{f} ? \&DrawStock : \&DrawMarket;
+
 my @stock;
 if($opts{d}){
         @stock = @defaultstock;
@@ -66,6 +67,7 @@ sub GetStockValue{
                 return $res->content;
         }
 }
+
 sub DrawMarket{  #输出一个股票市场的所有股票当前信息
         my ($stockcode,$value) = @_;
         my @list = split /,/, $value;
