@@ -21,17 +21,16 @@ my %market = (
         cy => sub {map {"sz$_"} ('300001' .. '300400')},
 );
 
-my @defaultstock = qw(sh601818 sz300229 sz002649 sz002368 sh600667 sz000858);
-
+my @defaultstock = qw(sh601818 sz300229 sz002649 sz002368 sh600667 sz000858);  #定义数组
 if($opts{c}){
-        system 'cls';
+        system 'cls';  #清屏
 }
 my $func = $opts{f} ? \&DrawStock : \&DrawMarket;
 my @stock;
 if($opts{d}){
         @stock = @defaultstock;
 }
-elsif($opts{m} && exists $market{lc $opts{m}}){
+elsif($opts{m} && exists $market{lc $opts{m}}){    #lc变小写
         @stock = $market{lc $opts{m}}->();
 }
 else{
@@ -70,7 +69,7 @@ sub GetStockValue{
 sub DrawMarket{
         my ($stockcode,$value) = @_;
         my @list = split /,/, $value;
-       
+       $list[0] = encode ("utf8", decode ("gb2312", $list[0]));
         $^ = "MARKET_TOP";
         $~ = "MARKET";
         $= = LINE+3;
