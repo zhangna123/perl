@@ -18,7 +18,7 @@ my %market = (
         sh => sub {map {"sh$_"} ('600001' .. '602100')},
         sz => sub {map {"sz$_"} ('000001' .. '001999')},
         zx => sub {map {"sz$_"} ('002001' .. '002999')},
-        cy => sub {map {"sz$_"} ('300001' .. '300400')},#四个参数分别代表获取上海，深圳，中小，创业板股票的信息
+        cy => sub {map {"sz$_"} ('300001' .. '300400')},#  四个参数分别代表获取上海，深圳，中小，创业板股票的信息
 );
 
 my @defaultstock = qw(sh601818 sz300229 sz002649 sz002368 sh600667 sz000858);  #定义数组
@@ -66,7 +66,7 @@ sub GetStockValue{
                 return $res->content;
         }
 }
-sub DrawMarket{
+sub DrawMarket{  #输出一个股票市场的所有股票当前信息
         my ($stockcode,$value) = @_;
         my @list = split /,/, $value;
        $list[0] = encode ("utf8", decode ("gb2312", $list[0]));
@@ -84,7 +84,7 @@ code     name          current (   +/-       %)    open   close          low(ch)
 $stockcode,$list[0],$list[3],$list[3]-$list[2],$list[2]>0?($list[3]-$list[2])*100/$list[2]:0,$list[1],$list[2],$list[5],$list[5]-$list[2],$list[4],$list[4]-$list[2],$list[8]/10000,$list[9]/10000,$list[10],$list[11],$list[21],$list[20],
 .
 }
-sub DrawStock{
+sub DrawStock{    #输出特定股票当前信息
         my ($stockcode,$value) = @_;
         
         my @list = split /,/, $value;
