@@ -4,7 +4,7 @@ use warnings;
 use LWP::UserAgent;
 use Carp;
 use HTTP::Response;
-use constant PROXY => 'http://192.168.178.241';
+use constant PROXY => 'http://192.168.43.233';
 my ($stock) = $ARGV[0];
 getstock($stock);
 exit;
