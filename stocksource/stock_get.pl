@@ -8,7 +8,7 @@ use Getopt::Std;
 
 use constant MAXNUMBER => 500;
 use constant LINE => 30;
-use constant PROXY => 'http://192.168.180.166';
+use constant PROXY => 'http://192.168.43.233';
 $| = 1;
 
 my %opts;
